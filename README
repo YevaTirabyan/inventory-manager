@@ -1,0 +1,39 @@
+Welcome to the Item Upgrade System!
+This program allows you to create, manage, and upgrade game items based on their rarity.
+Simulate an inventory, combine items to increase their rarity, and explore the upgrade mechanics.
+
+✨ Features
+
+🔹 Item Creation: Add items with unique names and specified rarity.
+🔹 Upgrade Mechanics:
+⬆️ Upgrade items by combining them with others of the same rarity and type.
+⭐ Progress through rarity levels: Common → Great → Rare → Epic → Legendary.
+⚙️ Special mechanics for Epic items: Epic → Epic 1 → Epic 2.
+🔹 Error Handling: Invalid operations are gracefully handled with clear error messages.
+
+
+📌 Assumptions and Design Choices
+
+🛠️ Upgrade Logic: Strict adherence to the rules for simplicity and consistency.
+⏳ Time Constraints: Some features were deprioritized due to the time limit, focusing on core functionality.
+
+
+🚧 Missing Features
+
+❌ Update Feature: The ability to modify existing items (e.g., change name or rarity) was planned but not implemented.
+❌ Save/Load: Inventory data is not persisted between sessions.
+❌ Random Item Generation: A feature to generate items based on rarity probabilities has not been implemented.
+
+
+🔮 Future Improvements
+
+💾 Implement save and load functionality for inventory persistence.
+🎲 Add random item generation with weighted probabilities for rarities.
+🛡️ Improve error handling with more detailed feedback to the user.
+
+
+✍️ Author’s Note
+This project was completed as part of a time-constrained coding task.
+The focus was on delivering a functional prototype, with opportunities for future extensions and optimizations.
+
+This version maintains clarity while adding a professional and visually appealing style!
